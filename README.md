@@ -8,3 +8,7 @@ This program can do 16-bit addition, subtraction, multiplication, division, and 
 ## Mouse Tracker
 
 This is a cursor tracker program that is self explanitory. Once you run the program, you can move your cursor all across the terminal and in the top-left corner, it displays the pixel coordinates of your cursor. To exit, hold down the right mouse button.
+
+### 8086 Emulator Download
+
+To download this emulator, please go to this link and select the executable that fits your machine: https://emu8086.en.lo4d.com/
